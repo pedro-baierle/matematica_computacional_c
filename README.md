@@ -1,1 +1,0 @@
-# matematica_computacional_c
